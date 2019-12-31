@@ -19,6 +19,7 @@ pre[data-v-3498393a]{
 }
 .code[data-v-3498393a] {
   display: none;
+  transform: rotateY(10deg) translateZ(-100px) ;
 }
 
 @media (max-width:500px){
@@ -54,4 +55,4 @@ html[data-v-77efa097] {
 }
 
 
-/*# sourceMappingURL=app.bee6e199c4fb7ad37fd65e3d31edfac1.css.map*/
+/*# sourceMappingURL=app.831250003b860f6352a81c3543e9bd76.css.map*/
