@@ -235,7 +235,7 @@ Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你
 
 <style scoped>
   #app {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     min-height: 100vh; position: relative;

@@ -25,8 +25,9 @@
           `/*
 * Inspired by http://strml.net/
 * 大家好，我是秘小乐
-* 我他妈在准备简历呀。
-* 你瞅瞅？
+* 最近准备找工作呀
+* 所以我准备写一份简历
+* 话不多说，现在开始！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -35,7 +36,7 @@
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(255,255,255); background: rgb(28,27,39);
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -46,10 +47,11 @@ html {
   width: 45vw; height: 90vh;
 }
 /* 代码高亮 */
-.token.selector{ color: rgb(133,153,0); }
-.token.property{ color: rgb(187,137,0); }
-.token.punctuation{ color: yellow; }
-.token.function{ color: rgb(42,161,152); }
+.token.selector{ color: rgb(164,220,63); }
+.token.property{ color: rgb(107,217,238); }
+.token.punctuation{ color: rgb(255,255,255); }
+.token.function{ color: rgb(107,217,238); }
+.token.comment{ color: rgb(115,111,94); }
 
 /* 加点 3D 效果呗 */
 html{
@@ -118,31 +120,33 @@ html{
         fullMarkdown: `秘小乐
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+前端开发工程师，现在在 [集思学院](https://www.pathacademics.com/) 任职前端开发工程师。
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* VUE（nuxtjs）
+* iview、element、vant 等
+* 小程序mpvue/wepy
+* gitlab+jenkins来进行项目的CI/CD
+* 了解 Node.js 开发
+* 了解 react 开发
+
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [集思学院](https://www.pathacademics.com/)
+2. 宁夏
+2. 华为石家庄办事处(实习)
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [GitHub](https://github.com/duantengyuan)
+* [我的博客](https://duantengyuan.github.io/blog/)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/duantengyuan/resume)，打造你自己的简历！
 
 `
       }
@@ -218,7 +222,7 @@ html{
 
 <style scoped>
   #app {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }

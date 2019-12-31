@@ -1,6 +1,6 @@
 
 #app[data-v-2d079afc] {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '\5FAE\8F6F\96C5\9ED1', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -41,7 +41,7 @@ to {
 *::before{box-sizing: border-box;}
 *::after{box-sizing: border-box;}
 #app[data-v-77efa097] {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '\5FAE\8F6F\96C5\9ED1', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh; position: relative;
@@ -54,4 +54,4 @@ html[data-v-77efa097] {
 }
 
 
-/*# sourceMappingURL=app.2611f0eb4674f860a4bdf6ba91ae75e7.css.map*/
+/*# sourceMappingURL=app.bee6e199c4fb7ad37fd65e3d31edfac1.css.map*/
