@@ -143,6 +143,7 @@ html{
 链接
 ----
 
+* [我的详细简历](https://duantengyuan.github.io/blog/blog/resume.html)
 * [GitHub](https://github.com/duantengyuan)
 * [我的博客](https://duantengyuan.github.io/blog/)
 
