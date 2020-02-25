@@ -152,13 +152,12 @@ html{
 ----
 
 1. [集思学院](https://www.pathacademics.com/)
-2. 宁夏
+2. 宁夏洲阳智慧互联网科技有限公司
 2. 华为石家庄办事处(实习)
 
 链接
 ----
 
-* [我的详细简历](https://duantengyuan.github.io/blog/blog/resume.html)
 * [GitHub](https://github.com/duantengyuan)
 * [我的博客](https://duantengyuan.github.io/blog/)
 
